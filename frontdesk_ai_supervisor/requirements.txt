@@ -1,0 +1,13 @@
+# Core dependencies
+Flask>=3.0.0
+flask-cors>=4.0.0
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=7.4.0
+
+# Optional: For real Firebase integration (not required for local JSON DB)
+# firebase-admin>=6.0.0
+
+# Optional: For real LiveKit integration (see requirements_voice.txt)
+# Note: LiveKit integration is optional and requires separate setup

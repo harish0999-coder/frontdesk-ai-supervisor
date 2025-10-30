@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frontdesk AI Supervisor Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50">
+    <div id="root"></div>
+
+    <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+
+    <script>
+        // React component will be embedded here from your artifact
+        // For production, you'd build the React app separately
+
+        const API_BASE = 'http://localhost:5000/api';
+
+        // Fetch and display data
+        async function loadData() {
+            try {
+                const [requests, knowledge, stats] = await Promise.all([
+                    fetch(`${API_BASE}/requests`).then(r => r.json()),
+                    fetch(`${API_BASE}/knowledge`).then(r => r.json()),
+                    fetch(`${API_BASE}/stats`).then(r => r.json())
+                ]);
+
+                console.log('Loaded data:', { requests, knowledge, stats });
+                return { requests, knowledge, stats };
+            } catch (error) {
+                console.error('Error loading data:', error);
+                return null;
+            }
+        }
+
+        async function resolveRequest(requestId, answer) {
+            const response = await fetch(`${API_BASE}/requests/${requestId}/resolve`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ answer, resolved_by: 'Supervisor' })
+            });
+            return response.json();
+        }
+
+        async function markUnresolved(requestId) {
+            const response = await fetch(`${API_BASE}/requests/${requestId}/unresolved`, {
+                method: 'POST'
+            });
+            return response.json();
+        }
+
+        // Auto-refresh every 5 seconds
+        setInterval(loadData, 5000);
+        loadData();
+    </script>
+</body>
+</html>

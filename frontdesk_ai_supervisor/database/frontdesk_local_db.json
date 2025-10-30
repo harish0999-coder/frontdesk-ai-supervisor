@@ -1,0 +1,821 @@
+{
+  "requests": [
+    {
+      "request_id": "b0412af2-bec9-427b-882a-1bd9151474c5",
+      "session_id": "session-c7f46e11",
+      "question": "hi",
+      "caller_phone": "7569677466",
+      "category": "general",
+      "status": "unresolved",
+      "created_at": "2025-10-28T11:29:30.320502",
+      "timeout_at": "2025-10-28T11:34:30.320502",
+      "answer": null,
+      "resolved_at": "2025-10-28T12:06:31.104669"
+    },
+    {
+      "request_id": "e46ca5d4-806b-48de-bc15-16921dba66c3",
+      "session_id": "sid-2",
+      "question": "Do you do eyebrow tattoos?",
+      "caller_phone": "555-0002",
+      "category": "general",
+      "status": "unresolved",
+      "created_at": "2025-10-28T11:34:26.824254",
+      "timeout_at": "2025-10-28T11:34:36.824254",
+      "answer": null,
+      "resolved_at": "2025-10-28T12:06:31.105666"
+    },
+    {
+      "request_id": "5f3d5f81-7f41-45c8-8bbd-9f50c5b1fee9",
+      "session_id": "session-c5740803",
+      "question": "hi",
+      "caller_phone": "7569677466",
+      "category": "general",
+      "status": "unresolved",
+      "created_at": "2025-10-28T11:35:26.553043",
+      "timeout_at": "2025-10-28T11:40:26.553043",
+      "answer": null,
+      "resolved_at": "2025-10-28T12:06:31.120833"
+    },
+    {},
+    {
+      "request_id": "13195de843ef6920",
+      "session_id": "session-bb3be0b9",
+      "question": "hi",
+      "caller_phone": "7569677466",
+      "category": "general",
+      "status": "unresolved",
+      "created_at": "2025-10-28T11:46:07.345557",
+      "timeout_at": "2025-10-28T11:46:07.345557",
+      "answer": null,
+      "resolved_at": "2025-10-28T12:06:31.131597"
+    },
+    {
+      "request_id": "ef14124a-bb2c-44d8-b89f-c2e08f2cb685",
+      "session_id": "session-b32048f0",
+      "question": "hi",
+      "caller_phone": "7569677466",
+      "category": "general",
+      "status": "unresolved",
+      "created_at": "2025-10-28T11:46:51.102442",
+      "timeout_at": "2025-10-28T11:51:51.102442",
+      "answer": null,
+      "resolved_at": "2025-10-28T12:06:31.149273"
+    },
+    {},
+    {
+      "request_id": "cc25e5d55e105581",
+      "session_id": "session-32a3b51c",
+      "question": "hi",
+      "caller_phone": "7569677466",
+      "category": "general",
+      "status": "unresolved",
+      "created_at": "2025-10-28T11:47:14.698890",
+      "timeout_at": "2025-10-28T11:47:14.698890",
+      "answer": null,
+      "resolved_at": "2025-10-28T12:06:31.163573"
+    },
+    {
+      "request_id": "6d4f5724-2cb9-480c-a310-6e9faa5f0802",
+      "session_id": "session-29be0b7b",
+      "question": "hi",
+      "caller_phone": "7569677466",
+      "category": "general",
+      "status": "unresolved",
+      "created_at": "2025-10-28T12:06:18.722733",
+      "timeout_at": "2025-10-28T12:11:18.722733",
+      "answer": null,
+      "resolved_at": "2025-10-28T12:11:38.607882",
+      "resolved_by": null
+    },
+    {
+      "request_id": "43f35798-c968-4680-8d38-10080ceaef95",
+      "session_id": "session-14308b8e",
+      "question": "hi",
+      "caller_phone": "7569677466",
+      "category": "general",
+      "status": "unresolved",
+      "created_at": "2025-10-28T12:06:41.385462",
+      "timeout_at": "2025-10-28T12:11:41.385462",
+      "answer": null,
+      "resolved_at": "2025-10-28T12:11:47.498399",
+      "resolved_by": null
+    },
+    {
+      "request_id": "a75a3aad-e643-4827-88af-428e82126278",
+      "session_id": "session-35a232a6",
+      "question": "hi",
+      "caller_phone": "7569677466",
+      "category": "general",
+      "status": "unresolved",
+      "created_at": "2025-10-28T12:06:44.086609",
+      "timeout_at": "2025-10-28T12:11:44.086609",
+      "answer": null,
+      "resolved_at": "2025-10-28T12:11:47.498399",
+      "resolved_by": null
+    },
+    {
+      "request_id": "08d4f045-183b-415b-a76a-a769c99aa86e",
+      "session_id": "session-069f805b",
+      "question": "helo how are you",
+      "caller_phone": "8369677466",
+      "category": "general",
+      "status": "resolved",
+      "created_at": "2025-10-28T12:09:26.149374",
+      "timeout_at": "2025-10-28T12:14:26.149374",
+      "answer": "fine",
+      "resolved_at": "2025-10-28T12:11:47.460100",
+      "resolved_by": "supervisor"
+    },
+    {
+      "request_id": "54874f3e-bfa0-4fe1-a007-166af438f195",
+      "session_id": "session-e92d96a0",
+      "question": "hi",
+      "caller_phone": "7569677466",
+      "category": "general",
+      "status": "unresolved",
+      "created_at": "2025-10-28T12:11:59.039103",
+      "timeout_at": "2025-10-28T12:16:59.039103",
+      "answer": null,
+      "resolved_at": "2025-10-28T12:18:31.582740",
+      "resolved_by": null
+    },
+    {
+      "request_id": "716d808b-8d78-4b8f-a53c-d18749d67154",
+      "session_id": "session-9bee59c6",
+      "question": "hi",
+      "caller_phone": "9640849075",
+      "category": "general",
+      "status": "resolved",
+      "created_at": "2025-10-28T12:19:13.473166",
+      "timeout_at": "2025-10-28T12:24:13.473166",
+      "answer": "Yes, we do eyebrow tattoos; consult with artist.",
+      "resolved_at": "2025-10-28T12:20:01.445841",
+      "resolved_by": "supervisor"
+    },
+    {
+      "request_id": "d713d707-6ac2-4cc5-b342-788d62610b5a",
+      "session_id": "session-8d5d1147",
+      "question": "hi",
+      "caller_phone": "Yes, we do eyebrow tattoos; consult with artist.",
+      "category": "general",
+      "status": "resolved",
+      "created_at": "2025-10-28T12:19:24.969219",
+      "timeout_at": "2025-10-28T12:24:24.969219",
+      "answer": "Yes, we do eyebrow tattoos; consult with artist.",
+      "resolved_at": "2025-10-28T12:20:05.721270",
+      "resolved_by": "supervisor"
+    },
+    {
+      "request_id": "66695e7a-7571-4ce9-9172-cc552fd9c1bc",
+      "session_id": "session-21d619c0",
+      "question": "Yes, we do eyebrow tattoos; consult with artist.",
+      "caller_phone": "7569677466",
+      "category": "general",
+      "status": "resolved",
+      "created_at": "2025-10-28T12:19:34.179646",
+      "timeout_at": "2025-10-28T12:24:34.179646",
+      "answer": "good",
+      "resolved_at": "2025-10-28T12:20:09.435307",
+      "resolved_by": "supervisor"
+    },
+    {
+      "request_id": "98bd11c9-ca82-436b-bb05-06f7861d2486",
+      "session_id": "session-b988d4e0",
+      "question": "Do you do eyebrow tattoos?",
+      "caller_phone": "7569677466",
+      "category": "general",
+      "status": "resolved",
+      "created_at": "2025-10-29T11:45:58.877749",
+      "timeout_at": "2025-10-29T11:50:58.877749",
+      "answer": "yes ",
+      "resolved_at": "2025-10-29T11:46:05.144182",
+      "resolved_by": "supervisor"
+    },
+    {
+      "request_id": "5d571101-599a-4e6d-aeef-8b9a6a02b273",
+      "session_id": "console-session",
+      "question": "what is today date",
+      "caller_phone": "console-user",
+      "category": "general",
+      "status": "unresolved",
+      "created_at": "2025-10-29T12:02:04.252699",
+      "timeout_at": "2025-10-29T12:07:04.252699",
+      "answer": null,
+      "resolved_at": "2025-10-29T12:09:38.019256",
+      "resolved_by": null
+    },
+    {
+      "request_id": "dae8bfe6-1f22-4561-b1c0-0060b237605d",
+      "session_id": "console-session",
+      "question": "who is pm of india",
+      "caller_phone": "console-user",
+      "category": "general",
+      "status": "unresolved",
+      "created_at": "2025-10-29T12:02:20.575199",
+      "timeout_at": "2025-10-29T12:07:20.575199",
+      "answer": null,
+      "resolved_at": "2025-10-29T12:09:38.019256",
+      "resolved_by": null
+    },
+    {
+      "request_id": "965822aa-dbe4-4cae-86cf-fd50b1d95e00",
+      "session_id": "console-session",
+      "question": "how is today",
+      "caller_phone": "console-user",
+      "category": "general",
+      "status": "unresolved",
+      "created_at": "2025-10-29T12:02:32.067495",
+      "timeout_at": "2025-10-29T12:07:32.067495",
+      "answer": null,
+      "resolved_at": "2025-10-29T12:09:38.049267",
+      "resolved_by": null
+    },
+    {
+      "request_id": "61f8509c-d2af-4d05-8030-9facd0b5fe65",
+      "session_id": "console-session",
+      "question": "who are you",
+      "caller_phone": "console-user",
+      "category": "general",
+      "status": "unresolved",
+      "created_at": "2025-10-29T12:02:42.597064",
+      "timeout_at": "2025-10-29T12:07:42.597064",
+      "answer": null,
+      "resolved_at": "2025-10-29T12:09:38.075473",
+      "resolved_by": null
+    },
+    {
+      "request_id": "683370fc-2a8b-4c11-8a7e-ea31740741af",
+      "session_id": "console-session",
+      "question": "exit()",
+      "caller_phone": "console-user",
+      "category": "general",
+      "status": "unresolved",
+      "created_at": "2025-10-29T12:04:09.938597",
+      "timeout_at": "2025-10-29T12:09:09.938597",
+      "answer": null,
+      "resolved_at": "2025-10-29T12:09:38.101707",
+      "resolved_by": null
+    },
+    {
+      "request_id": "069d28fa-b137-4298-acd6-429209a09544",
+      "caller_phone": "7569677466",
+      "question": "hi",
+      "status": "resolved",
+      "created_at": "2025-10-29T13:16:13.896653",
+      "timeout_at": "2025-10-29T13:21:13.896653",
+      "answer": "hi",
+      "resolved_at": "2025-10-29T13:16:31.210562",
+      "resolved_by": "supervisor",
+      "category": "general"
+    },
+    {
+      "request_id": "2c6ba387-d3bb-479c-bb52-18e3edf82f7e",
+      "session_id": "test-session",
+      "question": "who is cm",
+      "caller_phone": "9999999999",
+      "category": "general",
+      "status": "resolved",
+      "created_at": "2025-10-29T13:20:47.501839",
+      "timeout_at": "2025-10-29T13:25:47.501839",
+      "answer": "ap",
+      "resolved_at": "2025-10-29T15:05:00.363423",
+      "resolved_by": "supervisor"
+    },
+    {
+      "request_id": "862e0933-7402-4cb5-a925-fe3325763aed",
+      "session_id": "test-session",
+      "question": "who are you",
+      "caller_phone": "9999999999",
+      "category": "general",
+      "status": "resolved",
+      "created_at": "2025-10-29T13:24:25.498168",
+      "timeout_at": "2025-10-29T13:29:25.498168",
+      "answer": "agent",
+      "resolved_at": "2025-10-29T15:05:08.629762",
+      "resolved_by": "supervisor"
+    },
+    {
+      "request_id": "c5a63ad0-6e95-4f49-8384-0a5c450f7b9a",
+      "session_id": "test-session",
+      "question": "today food",
+      "caller_phone": "9999999999",
+      "category": "general",
+      "status": "resolved",
+      "created_at": "2025-10-29T15:13:52.571086",
+      "timeout_at": "2025-10-29T15:18:52.571086",
+      "answer": "bread",
+      "resolved_at": "2025-10-29T15:14:11.437972",
+      "resolved_by": "supervisor"
+    },
+    {
+      "request_id": "1768c29c-1d11-4bfa-a0bf-eebdf8ccc00b",
+      "caller_phone": "7569677466",
+      "question": "hi",
+      "status": "resolved",
+      "created_at": "2025-10-29T15:14:02.618585",
+      "timeout_at": "2025-10-29T15:19:02.618585",
+      "answer": "helo",
+      "resolved_at": "2025-10-29T16:01:38.256869",
+      "resolved_by": "supervisor",
+      "category": "general"
+    },
+    {
+      "request_id": "ee553ced-5ee5-4f80-9b80-bc812bca6138",
+      "session_id": "test-session",
+      "question": "hui",
+      "caller_phone": "9999999999",
+      "category": "general",
+      "status": "resolved",
+      "created_at": "2025-10-29T15:48:30.327787",
+      "timeout_at": "2025-10-29T15:53:30.327787",
+      "answer": "Accuracy",
+      "resolved_at": "2025-10-30T04:05:47.934567",
+      "resolved_by": "supervisor"
+    },
+    {
+      "request_id": "4cd97756-ee8c-4098-b9e8-29e992660922",
+      "session_id": "test-session",
+      "question": "hrlo",
+      "caller_phone": "9999999999",
+      "category": "general",
+      "status": "resolved",
+      "created_at": "2025-10-29T15:48:38.793888",
+      "timeout_at": "2025-10-29T15:53:38.793888",
+      "answer": "ho",
+      "resolved_at": "2025-10-30T09:49:17.158049",
+      "resolved_by": "supervisor"
+    },
+    {
+      "request_id": "e711b009-c1ee-4569-8122-bc8ff4a5e9ff",
+      "session_id": "test-session",
+      "question": "hrlo",
+      "caller_phone": "9999999999",
+      "category": "general",
+      "status": "pending",
+      "created_at": "2025-10-29T15:56:35.448246",
+      "timeout_at": "2025-10-29T16:01:35.448246",
+      "answer": null,
+      "resolved_at": null,
+      "resolved_by": null
+    },
+    {
+      "request_id": "df59ec52-fe0c-4672-bc09-b34f5e7df8bf",
+      "session_id": "test-session",
+      "question": "how are you?",
+      "caller_phone": "9999999999",
+      "category": "general",
+      "status": "pending",
+      "created_at": "2025-10-30T03:27:41.028816",
+      "timeout_at": "2025-10-30T03:32:41.028816",
+      "answer": null,
+      "resolved_at": null,
+      "resolved_by": null
+    },
+    {
+      "request_id": "7f912f7a-4e82-4bf1-b9e3-a3754d608a73",
+      "session_id": "test-session",
+      "question": "ok",
+      "caller_phone": "9999999999",
+      "category": "general",
+      "status": "pending",
+      "created_at": "2025-10-30T03:27:57.382653",
+      "timeout_at": "2025-10-30T03:32:57.382653",
+      "answer": null,
+      "resolved_at": null,
+      "resolved_by": null
+    },
+    {
+      "request_id": "55e5f0fd-ba70-41c1-b499-be14a883bbb6",
+      "session_id": "test-session",
+      "question": "fine",
+      "caller_phone": "9999999999",
+      "category": "general",
+      "status": "pending",
+      "created_at": "2025-10-30T04:00:45.999624",
+      "timeout_at": "2025-10-30T04:05:45.999624",
+      "answer": null,
+      "resolved_at": null,
+      "resolved_by": null
+    },
+    {
+      "request_id": "9b205841-a0ef-406e-882f-439f2c9c6ce3",
+      "session_id": "test-session",
+      "question": "good",
+      "caller_phone": "9999999999",
+      "category": "general",
+      "status": "pending",
+      "created_at": "2025-10-30T04:00:49.001846",
+      "timeout_at": "2025-10-30T04:05:49.001846",
+      "answer": null,
+      "resolved_at": null,
+      "resolved_by": null
+    },
+    {
+      "request_id": "23de3b6f-9f99-4736-bb22-daacd38b7a23",
+      "session_id": "test-session",
+      "question": "kk",
+      "caller_phone": "9999999999",
+      "category": "general",
+      "status": "pending",
+      "created_at": "2025-10-30T04:00:58.218881",
+      "timeout_at": "2025-10-30T04:05:58.218881",
+      "answer": null,
+      "resolved_at": null,
+      "resolved_by": null
+    },
+    {
+      "request_id": "00d750ea-2384-4275-8155-373f5a39b527",
+      "caller_phone": "7569677466",
+      "question": "hi",
+      "status": "pending",
+      "created_at": "2025-10-30T04:05:35.351282",
+      "timeout_at": "2025-10-30T04:10:35.351282",
+      "answer": null,
+      "resolved_at": null,
+      "resolved_by": null,
+      "category": "general"
+    },
+    {
+      "request_id": "af028bd6-42f6-4ce2-b64c-d7318b3e44d1",
+      "session_id": "test-session",
+      "question": "fine",
+      "caller_phone": "9999999999",
+      "category": "general",
+      "status": "pending",
+      "created_at": "2025-10-30T05:57:27.271654",
+      "timeout_at": "2025-10-30T06:02:27.271654",
+      "answer": null,
+      "resolved_at": null,
+      "resolved_by": null
+    },
+    {
+      "request_id": "c9943e05-5cd7-438c-8153-29e3a02f83dd",
+      "session_id": "test-session",
+      "question": "op",
+      "caller_phone": "9999999999",
+      "category": "general",
+      "status": "pending",
+      "created_at": "2025-10-30T08:02:51.838152",
+      "timeout_at": "2025-10-30T08:07:51.838152",
+      "answer": null,
+      "resolved_at": null,
+      "resolved_by": null
+    }
+  ],
+  "knowledge": [
+    {
+      "question": "helo how are you",
+      "answer": "fine",
+      "category": "general",
+      "created_at": "2025-10-28T12:11:47.473315"
+    },
+    {
+      "question": "hi",
+      "answer": "Yes, we do eyebrow tattoos; consult with artist.",
+      "category": "general",
+      "created_at": "2025-10-28T12:20:01.461291"
+    },
+    {
+      "question": "hi",
+      "answer": "Yes, we do eyebrow tattoos; consult with artist.",
+      "category": "general",
+      "created_at": "2025-10-28T12:20:05.733831"
+    },
+    {
+      "question": "Yes, we do eyebrow tattoos; consult with artist.",
+      "answer": "good",
+      "category": "general",
+      "created_at": "2025-10-28T12:20:09.449492"
+    },
+    {
+      "question": "Do you do eyebrow tattoos?",
+      "answer": "yes ",
+      "category": "general",
+      "created_at": "2025-10-29T11:46:05.159823"
+    },
+    {
+      "question": "hi",
+      "answer": "hi",
+      "category": "general",
+      "created_at": "2025-10-29T13:16:31.222360"
+    },
+    {
+      "question": "who is cm",
+      "answer": "ap",
+      "category": "general",
+      "created_at": "2025-10-29T15:05:00.375801"
+    },
+    {
+      "question": "who are you",
+      "answer": "agent",
+      "category": "general",
+      "created_at": "2025-10-29T15:05:08.647208"
+    },
+    {
+      "question": "today food",
+      "answer": "bread",
+      "category": "general",
+      "created_at": "2025-10-29T15:14:11.471475"
+    },
+    {
+      "question": "hi",
+      "answer": "helo",
+      "category": "general",
+      "created_at": "2025-10-29T16:01:38.273352"
+    },
+    {
+      "question": "hui",
+      "answer": "Accuracy",
+      "category": "general",
+      "created_at": "2025-10-30T04:05:47.950499"
+    },
+    {
+      "question": "hrlo",
+      "answer": "ho",
+      "category": "general",
+      "created_at": "2025-10-30T09:49:17.163352"
+    }
+  ],
+  "messages": [
+    {
+      "message": {
+        "to": "555-0001",
+        "message": "We're open Monday to Saturday, 9 AM to 7 PM, and closed on Sundays."
+      },
+      "created_at": "2025-10-28T11:34:26.808560"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Let me check with my supervisor and get back to you."
+      },
+      "created_at": "2025-10-28T12:06:18.722733"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Let me check with my supervisor and get back to you."
+      },
+      "created_at": "2025-10-28T12:06:41.383704"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Let me check with my supervisor and get back to you."
+      },
+      "created_at": "2025-10-28T12:06:44.086609"
+    },
+    {
+      "message": {
+        "to": "8369677466",
+        "message": "Let me check with my supervisor and get back to you."
+      },
+      "created_at": "2025-10-28T12:09:26.149374"
+    },
+    {
+      "message": {
+        "to": "8369677466",
+        "message": "Answer to your question: fine"
+      },
+      "created_at": "2025-10-28T12:11:47.486232"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Let me check with my supervisor and get back to you."
+      },
+      "created_at": "2025-10-28T12:11:59.039103"
+    },
+    {
+      "message": {
+        "to": "9640849075",
+        "message": "Let me check with my supervisor and get back to you."
+      },
+      "created_at": "2025-10-28T12:19:13.473166"
+    },
+    {
+      "message": {
+        "to": "Yes, we do eyebrow tattoos; consult with artist.",
+        "message": "Let me check with my supervisor and get back to you."
+      },
+      "created_at": "2025-10-28T12:19:24.969219"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Let me check with my supervisor and get back to you."
+      },
+      "created_at": "2025-10-28T12:19:34.179646"
+    },
+    {
+      "message": {
+        "to": "9640849075",
+        "message": "Answer to your question: Yes, we do eyebrow tattoos; consult with artist."
+      },
+      "created_at": "2025-10-28T12:20:01.475844"
+    },
+    {
+      "message": {
+        "to": "Yes, we do eyebrow tattoos; consult with artist.",
+        "message": "Answer to your question: Yes, we do eyebrow tattoos; consult with artist."
+      },
+      "created_at": "2025-10-28T12:20:05.745510"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Answer to your question: good"
+      },
+      "created_at": "2025-10-28T12:20:09.464118"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Yes, we do eyebrow tattoos; consult with artist."
+      },
+      "created_at": "2025-10-28T12:25:21.370254"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Yes, we do eyebrow tattoos; consult with artist."
+      },
+      "created_at": "2025-10-28T12:28:06.477189"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Yes, we do eyebrow tattoos; consult with artist."
+      },
+      "created_at": "2025-10-28T12:28:44.347832"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Yes, we do eyebrow tattoos; consult with artist."
+      },
+      "created_at": "2025-10-28T12:28:45.271160"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Yes, we do eyebrow tattoos; consult with artist."
+      },
+      "created_at": "2025-10-28T12:28:45.482661"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Yes, we do eyebrow tattoos; consult with artist."
+      },
+      "created_at": "2025-10-28T12:28:45.920843"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Yes, we do eyebrow tattoos; consult with artist."
+      },
+      "created_at": "2025-10-28T12:28:46.079178"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Yes, we do eyebrow tattoos; consult with artist."
+      },
+      "created_at": "2025-10-28T12:28:46.622692"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Yes, we do eyebrow tattoos; consult with artist."
+      },
+      "created_at": "2025-10-28T12:28:47.007016"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Yes, we do eyebrow tattoos; consult with artist."
+      },
+      "created_at": "2025-10-29T03:17:10.767368"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Let me check with my supervisor and get back to you."
+      },
+      "created_at": "2025-10-29T11:45:58.876540"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Answer to your question: yes "
+      },
+      "created_at": "2025-10-29T11:46:05.173585"
+    },
+    {
+      "message": {
+        "to": "console-user",
+        "message": "Yes, we do eyebrow tattoos; consult with artist."
+      },
+      "created_at": "2025-10-29T12:01:36.846146"
+    },
+    {
+      "message": {
+        "to": "console-user",
+        "message": "good"
+      },
+      "created_at": "2025-10-29T12:01:46.722404"
+    },
+    {
+      "message": {
+        "to": "console-user",
+        "message": "fine"
+      },
+      "created_at": "2025-10-29T12:01:52.626596"
+    },
+    {
+      "message": {
+        "to": "console-user",
+        "message": "Let me check with my supervisor and get back to you."
+      },
+      "created_at": "2025-10-29T12:02:04.252699"
+    },
+    {
+      "message": {
+        "to": "console-user",
+        "message": "Let me check with my supervisor and get back to you."
+      },
+      "created_at": "2025-10-29T12:02:20.571519"
+    },
+    {
+      "message": {
+        "to": "console-user",
+        "message": "Let me check with my supervisor and get back to you."
+      },
+      "created_at": "2025-10-29T12:02:32.066488"
+    },
+    {
+      "message": {
+        "to": "console-user",
+        "message": "Let me check with my supervisor and get back to you."
+      },
+      "created_at": "2025-10-29T12:02:42.597064"
+    },
+    {
+      "message": {
+        "to": "console-user",
+        "message": "Let me check with my supervisor and get back to you."
+      },
+      "created_at": "2025-10-29T12:04:09.937339"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Answer to your question: hi"
+      },
+      "created_at": "2025-10-29T13:16:31.232835"
+    },
+    {
+      "message": {
+        "to": "9999999999",
+        "message": "Answer to your question: ap"
+      },
+      "created_at": "2025-10-29T15:05:00.386390"
+    },
+    {
+      "message": {
+        "to": "9999999999",
+        "message": "Answer to your question: agent"
+      },
+      "created_at": "2025-10-29T15:05:08.660733"
+    },
+    {
+      "message": {
+        "to": "9999999999",
+        "message": "Answer to your question: bread"
+      },
+      "created_at": "2025-10-29T15:14:11.500768"
+    },
+    {
+      "message": {
+        "to": "7569677466",
+        "message": "Answer to your question: helo"
+      },
+      "created_at": "2025-10-29T16:01:38.285126"
+    },
+    {
+      "message": {
+        "to": "9999999999",
+        "message": "Answer to your question: Accuracy"
+      },
+      "created_at": "2025-10-30T04:05:47.963006"
+    },
+    {
+      "message": {
+        "to": "9999999999",
+        "message": "Answer to your question: ho"
+      },
+      "created_at": "2025-10-30T09:49:17.163352"
+    }
+  ]
+}

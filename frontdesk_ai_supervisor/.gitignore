@@ -1,0 +1,9 @@
+﻿.env
+.env.local
+firebase-credentials.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+*.log
